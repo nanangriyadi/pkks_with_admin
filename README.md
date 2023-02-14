@@ -67,8 +67,22 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # pkks_with_admin
 cara penggunaan :
 1. buka terminal ketikan cp.env.example .env
-2. buka terminal php artisan migrate
-3. buka terminal php artisan db:seed
+2. lalu buka phpmyadmin->database->database name-> slb5
+3. buka terminal php artisan migrate
+4. buka terminal php artisan db:seed
+
+alat yang dubutuhkan:
+1. composer
+2. xammp dengan php8++
+3. gitbash opsional bisa pakai terminal di windows 10/11
+
+username:
+admin@gmail.com
+pasword:
+admin12345
 
 selamat mencoba
+
+dukung saya ya
+![image](https://user-images.githubusercontent.com/3053485/218619114-0bab7622-fb41-4008-bac5-34f8fdb35bfd.png)
 
