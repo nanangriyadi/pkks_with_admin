@@ -65,3 +65,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # pkks_with_admin
+cara penggunaan :
+1. buka terminal ketikan cp.env.example .env
+2. buka terminal php artisan migrate
+3. buka terminal php artisan db:seed
+
+selamat mencoba
+
