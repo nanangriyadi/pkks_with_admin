@@ -11,7 +11,7 @@ cara penggunaan :
 3. buka terminal php artisan key:generate
 4. buka terminal php artisan migrate
 5. buka terminal php artisan db:seed
-6. buka terminal php artisan serv
+6. buka terminal php artisan serve
 
 alat yang dubutuhkan:
 1. composer
