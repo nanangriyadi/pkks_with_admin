@@ -1,27 +1,19 @@
 
 
-![image](https://user-images.githubusercontent.com/3053485/218922352-e212b566-0878-4cbb-8c1a-f5c8232c3c2e.png)
+![image](https://user-images.githubusercontent.com/3053485/223063050-ee0979b3-016a-4b0d-9d1d-184bfcc1c735.png)
 
 
 
-# pkks_with_admin
+# SPJ Kelompok Tani
 cara penggunaan :
 1. buka terminal ketikan cp.env.example .env
-2. lalu buka phpmyadmin->database->database name-> slb5
-3. buka terminal php artisan key:generate
-4. buka terminal php artisan migrate
-5. buka terminal php artisan db:seed
-6. buka terminal php artisan serve
+2. buka terminal php artisan key:generate
+3. buka terminal php artisan serve
 
 alat yang dubutuhkan:
 1. composer
 2. xammp dengan php8++
 3. gitbash opsional bisa pakai terminal di windows 10/11
-
-username:
-admin@gmail.com
-pasword:
-admin12345
 
 selamat mencoba
 
