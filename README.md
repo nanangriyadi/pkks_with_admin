@@ -7,11 +7,12 @@
 # pkks_with_admin
 cara penggunaan :
 1. buka terminal ketikan cp.env.example .env
-2. lalu buka phpmyadmin->database->database name-> slb5
-3. buka terminal php artisan key:generate
-4. buka terminal php artisan migrate
-5. buka terminal php artisan db:seed
-6. buka terminal php artisan serve
+2. buka terminal ketikan composer install
+3. lalu buka phpmyadmin->database->database name-> slb5
+4. buka terminal php artisan key:generate
+5. buka terminal php artisan migrate
+6. buka terminal php artisan db:seed
+7. buka terminal php artisan serve
 
 alat yang dubutuhkan:
 1. composer
